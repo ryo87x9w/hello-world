@@ -9,3 +9,5 @@ I like
     * PHP
     * HTML
 *Python
+
+2個以上のコミットのマージをテスト
